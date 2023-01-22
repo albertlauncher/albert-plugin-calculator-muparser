@@ -1,9 +1,0 @@
-<!--
-  ~ Copyright (c) 2022 Manuel Schneider
-  -->
-
-<RCC>
-    <qresource prefix="/">
-        <file alias="calc">calc.svg</file>
-    </qresource>
-</RCC>
